@@ -1,0 +1,5 @@
+def main():
+   mystr='programmer'
+   print(mystr[3])
+   print(mystr.find("r"))
+   print(mystr.replace('m','y'))
